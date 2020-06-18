@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://books.tonyonair.com.ua/sitemap.xml
+Host:books.tonyonair.com.ua
